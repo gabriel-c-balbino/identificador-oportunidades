@@ -3,17 +3,16 @@ Projeto desenvolvido para a disciplina de Aprendizado Profundo, do curso de Pós
 
 # Playwright
 <p>Após instalar a bibliotéca executar no terminal:</p>
-plawright install
-<br>
+<p>plawright install</p>
 <p>para sistemas linux executar também:</p>
-playwright install-deps
+<p>playwright install-deps</p>
 
 # Ollama
 <p>Para usar efetivamente o client do Ollama, baixar e instalar o software disponivel em: https://ollama.com/</p>
 <p>Executar no terminal:</p>
-ollama pull 'nome_do_modelo_desejado'
+<p>ollama pull 'nome_do_modelo_desejado'</p>
 <p>e manter o servidor aberto com o comando:</p>
-ollama serve
+<p>ollama serve</p>
 
 # APIs
-<p>Adaptar código para usar APIs de variavel de ambiente para as chaves apis, no momento o mesmo usa a função secrets do ambiente do Google Colab.</p>
+<p>Adaptar o código do notebook para usar suas chaves de API definidas nas suas variáveis de ambiente, pois o notebook está configurado para usar a função 'secrets' do ambiente virtual do Google Colab.</p>
