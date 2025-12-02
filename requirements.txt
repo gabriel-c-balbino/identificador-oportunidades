@@ -1,0 +1,8 @@
+# Dependências do projeto
+ollama
+playwright
+langgraph
+langchain
+langchain-ollama
+pandas
+jupyter  # Necessário se for rodar o notebook diretamente
